@@ -6,6 +6,7 @@ module.exports = {
     node: true,
   },
   rules: {
+    'require-config': 'false',
     'linebreak-style': 0,
     'import/newline-after-import': 'off',
     'import/no-extraneous-dependencies': 'off',
